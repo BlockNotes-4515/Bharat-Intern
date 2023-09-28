@@ -1,6 +1,4 @@
-# Bharat-Intern
-Complete Guided Tasks at Bharat INtern.
-Bharat Intern- all Tasks.
+
 !!---------------------------Task-1------------------------------!!
 
 Stock Prediction :
